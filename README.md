@@ -1,0 +1,2 @@
+# rurik.com
+simple portfolio
