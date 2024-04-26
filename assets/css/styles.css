@@ -542,7 +542,7 @@ body.dark-theme{
   margin-bottom: 1rem;
 }
 .work__img{
-  filter: grayscale(1);
+/*   filter: grayscale(1); */
   transition: filter .5s, transform .5s;
 }
 .work__icon{
